@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gidraff. A Cloud DevOps Engineer based in Nairobi, Kenya. 
+- 👋 Hi, I’m @Gidraff. A Senior DevOps Engineer based in Nairobi, Kenya. 
 - 👀 I’m interested in building cloud-native solutions.
 - 🌱 I’m currently learning network security.
 - 💞️ I’m looking to collaborate on cloud-based solution and developer tools.
